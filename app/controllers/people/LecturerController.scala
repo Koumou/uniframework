@@ -1,3 +1,10 @@
+
+/**
+  *Creater Reece
+  *Reviewer TThomas
+  *
+  */
+
 package controllers.people
 
 import javax.inject.Inject
@@ -8,3 +15,5 @@ class LecturerController @Inject()
 
 
 }
+
+
