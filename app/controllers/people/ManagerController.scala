@@ -5,7 +5,7 @@
   *
   */
 
-packagecontrollers.manager
+package controllers.people
 
 import javax.inject.Inject
 import play.api.mvc.{AbstractController, ControllerComponents}
